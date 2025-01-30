@@ -7,8 +7,8 @@ __pycache__/
 *.so
 
 # wandb and outputs
-./outputs
-./wandb
+outputs/
+wandb/
 
 # Distribution / packaging
 .Python
